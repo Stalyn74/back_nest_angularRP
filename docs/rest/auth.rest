@@ -19,3 +19,7 @@ Content-Type: application/json
     "email":"jc2@hm.com",
     "password":"1234567"
 }
+
+### users
+GET http://127.0.0.1:3000/users
+Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6ImFkbWluQGdtYWlsLmNvbSIsImlkIjoxLCJpYXQiOjE3MzE3Njk3MTQsImV4cCI6MTczMTc2OTc3NH0.M-tuJfF2ANP86wRsO5OTQwS3VooUwiBQLdLl0cXugtw
